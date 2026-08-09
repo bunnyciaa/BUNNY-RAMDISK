@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.app/
+backup_original/
+pyarmor_runtime_*
+BUNNY_RAMDISK_macOS.zip
+*.zip
