@@ -21,7 +21,7 @@ https://github.com/bunnyciaa/BUNNY-RAMDISK/releases/tag/v1.0-ramdisks
 | iPhone 11 Pro (iPhone12,3, d421ap) | A13 | 26.6 | `iPhone12.3-d421ap-26.6-23G71-ramdisk.zip` |
 | iPhone 11 Pro Max (iPhone12,5) | A13 | 26.6 | `iPhone12.5-d431ap-26.6-23G71-ramdisk.zip` |
 | iPhone SE 2 (iPhone12,8) | A13 | 26.6 | `iPhone12.8-d79ap-26.6-23G71-ramdisk.zip` |
-| iPhone 11 Pro bootchain | A13 | - | `iPhone12.3-8030.zip` |
+
 
 ## Usage
 
