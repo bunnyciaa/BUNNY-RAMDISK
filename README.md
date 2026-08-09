@@ -2,11 +2,6 @@
 
 A12/A13 (iPhone XS–iPhone 11) ramdisk files.
 
-## Download
-
-All ramdisks are hosted as release assets (GitHub does not allow `,` in asset names — the tool matches by content, not filename):
-
-https://github.com/bunnyciaa/BUNNY-RAMDISK/releases/tag/v1.0-ramdisks
 
 ## Ramdisk Collection
 
