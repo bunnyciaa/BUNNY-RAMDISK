@@ -19,8 +19,7 @@ A12/A13 (iPhone XS–iPhone 11) activation ramdisk files & tools.
 ## Usage
 
 1. Put device in DFU mode
-2. Run the hello bypass script from the BUNNY RAMDISK tool
-3. Select the ramdisk zip matching your device
+2. Select the ramdisk zip matching your device
 
 ## Disclaimer
 
