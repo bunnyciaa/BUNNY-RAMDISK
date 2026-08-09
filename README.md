@@ -1,6 +1,6 @@
 # BUNNY-RAMDISK
 
-A12/A13 (iPhone XS–iPhone 11) activation ramdisk files & tools.
+A12/A13 (iPhone XS–iPhone 11) ramdisk files.
 
 ## Ramdisk Collection
 
